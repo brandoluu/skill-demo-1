@@ -8,7 +8,7 @@ public class skillDemoTest {
     public void additionTest(){
         skilldemo test = new skilldemo(); 
 
-        assertEquals(2, test.addition(20, 2));
+        assertEquals(22, test.addition(20, 2));
 
     }
 
